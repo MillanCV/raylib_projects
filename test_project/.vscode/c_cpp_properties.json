@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**", // Include your project's directory
+                "/home/millan/Dev/Learn/Raylib/raylib/include" // Add the path to raylib's include directory
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc", // Path to your GCC compiler
+            "cStandard": "c11", // or "c17" or other versions as needed
+            "cppStandard": "c++17", // or "c++20" or other versions as needed
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
